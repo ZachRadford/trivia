@@ -1,0 +1,23 @@
+body {
+	background-color: #002b55
+}
+
+.page-header {
+	margin: auto 0;
+
+}
+
+h2 {
+	color: #d7211a;
+}
+
+li, button, div {
+	color: #d7211a;
+	text-align: center;
+}
+
+ul {
+	list-style: none;
+	text-align: center;
+	color: #d7211a;
+}
