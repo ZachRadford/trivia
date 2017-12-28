@@ -38,8 +38,8 @@
   var timerRun = false
   var intervalId
   var stopwatch = {
-    time: 20
-  }
+      time: 20
+    }
   
   
 
